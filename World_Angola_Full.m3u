@@ -1,0 +1,48 @@
+#EXTM3U
+# Playlist: Angola + Global
+# Streams públicos e placeholders
+# UTF-8
+
+# === ANGOLA – canais com stream público identificado ===
+#EXTINF:-1 tvg-id="TPA1.ao" tvg-name="TPA1" tvg-logo="https://tpaonline.ao/logo.png" group-title="Angola/TV", TPA1 (YouTube Live)
+https://www.youtube.com/@tpaonline3152/live
+
+#EXTINF:-1 tvg-id="TVZimbo" tvg-name="TV Zimbo" tvg-logo="https://www.tvzimbo.ao/wp-content/uploads/logo.png" group-title="Angola/TV", TV Zimbo (YouTube Live)
+https://www.youtube.com/@TVZimbo_Oficial/live
+
+#EXTINF:-1 tvg-id="PalancaTV" tvg-name="Palanca TV" tvg-logo="https://example.com/logos/PalancaTV.png" group-title="Angola/TV", Palanca TV (YouTube)
+https://www.youtube.com/@palancatv2606/live
+
+#EXTINF:-1 tvg-id="TVGirassol" tvg-name="TV Girassol" tvg-logo="https://redegirassol.com/wp-content/uploads/logo.png" group-title="Angola/TV", TV Girassol (site)
+https://redegirassol.com/tv/
+
+# === CANAIS ANGOLA – placeholders (sem stream público confirmado) ===
+#EXTINF:-1 tvg-id="PlusHitsAfrica.ao" tvg-name="PlusHitsAfrica" tvg-logo="https://example.com/logos/PlusHitsAfrica.png" group-title="Angola/Music", PlusHitsAfrica
+http://placeholder.example.com/plushits-notfound
+
+#EXTINF:-1 tvg-id="AfroMusicChannel.ao" tvg-name="AfroMusicChannel" tvg-logo="https://example.com/logos/AfroMusicChannel.png" group-title="Angola/Music", AfroMusicChannel
+http://placeholder.example.com/afromusic-notfound
+
+#EXTINF:-1 tvg-id="AfroMusicConcert.ao" tvg-name="AfroMusicConcert" tvg-logo="https://example.com/logos/AfroMusicConcert.png" group-title="Angola/Music", AfroMusicConcert
+http://placeholder.example.com/afroconcert-notfound
+
+#EXTINF:-1 tvg-id="AfroMusicPop.ao" tvg-name="AfroMusicPop" tvg-logo="https://example.com/logos/AfroMusicPop.png" group-title="Angola/Music", AfroMusicPop
+http://placeholder.example.com/afropop-notfound
+
+#EXTINF:-1 tvg-id="AngoTV.ao" tvg-name="AngoTV" tvg-logo="https://example.com/logos/AngoTV.png" group-title="Angola/TV", Ango TV
+http://placeholder.example.com/angotv-notfound
+
+#EXTINF:-1 tvg-id="ArenaX.ao" tvg-name="ArenaX" tvg-logo="https://example.com/logos/ArenaX.png" group-title="Angola/Sports", Arena X
+http://placeholder.example.com/arenax-notfound
+
+#EXTINF:-1 tvg-id="AtlanticoTV.ao" tvg-name="AtlanticoTV" tvg-logo="https://example.com/logos/AtlanticoTV.png" group-title="Angola/TV", Atlantico TV
+http://placeholder.example.com/atlanticotv-notfound
+
+#EXTINF:-1 tvg-id="BandaTV.ao" tvg-name="BandaTV" tvg-logo="https://example.com/logos/BandaTV.png" group-title="Angola/TV", Banda TV
+http://placeholder.example.com/bandatv-notfound
+
+# ... (adicione placeholders para todos os outros canais Angola da sua lista)
+
+# === MUNDO – IPTV‑ORG Global (stream público) ===
+#EXTINF:-1 tvg-id="Global" tvg-name="Global IPTV" tvg-logo="https://iptv-org.github.io/logo.png" group-title="Global", Global IPTV
+https://iptv-org.github.io/iptv/index.m3u
