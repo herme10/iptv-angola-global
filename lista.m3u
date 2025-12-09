@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1, Canal Exemplo 1
+https://servidor.com/stream1.m3u8
+
+#EXTINF:-1, Canal Exemplo 2
+http://meuservidor.com/canais/filmes.mp4
+
+#EXTINF:-1, Música Local
+C:\Users\Hermen\Musicas\som.mp3
