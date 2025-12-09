@@ -1,0 +1,44 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="PlusHitsAfrica" tvg-name="PlusHitsAfrica" tvg-logo="[https://example.com/logos/PlusHitsAfrica.png](https://example.com/logos/PlusHitsAfrica.png)" group-title="Sucessos África", PlusHitsAfrica
+[http://PlusHitsAfrica.ao](http://PlusHitsAfrica.ao)
+#EXTINF:-1 tvg-id="AfroMusicChannel" tvg-name="AfroMusicChannel" tvg-logo="[https://example.com/logos/AfroMusicChannel.png](https://example.com/logos/AfroMusicChannel.png)" group-title="Sucessos África", AfroMusicChannel
+[http://AfroMusicChannel.ao](http://AfroMusicChannel.ao)
+#EXTINF:-1 tvg-id="AfroMusicConcert" tvg-name="AfroMusicConcert" tvg-logo="[https://example.com/logos/AfroMusicConcert.png](https://example.com/logos/AfroMusicConcert.png)" group-title="Sucessos África", AfroMusicConcert
+[http://AfroMusicConcert.ao](http://AfroMusicConcert.ao)
+#EXTINF:-1 tvg-id="AfroMusicPop" tvg-name="AfroMusicPop" tvg-logo="[https://example.com/logos/AfroMusicPop.png](https://example.com/logos/AfroMusicPop.png)" group-title="Sucessos África", AfroMusicPop
+[http://AfroMusicPop.ao](http://AfroMusicPop.ao)
+#EXTINF:-1 tvg-id="AngoTV" tvg-name="AngoTV" tvg-logo="[https://example.com/logos/AngoTV.png](https://example.com/logos/AngoTV.png)" group-title="Sucessos África", Ango TV
+[http://AngoTV.ao](http://AngoTV.ao)
+#EXTINF:-1 tvg-id="ArenaX" tvg-name="ArenaX" tvg-logo="[https://example.com/logos/ArenaX.png](https://example.com/logos/ArenaX.png)" group-title="Sucessos África", Arena X
+[http://ArenaX.ao](http://ArenaX.ao)
+#EXTINF:-1 tvg-id="AtlanticoTV" tvg-name="AtlanticoTV" tvg-logo="[https://example.com/logos/AtlanticoTV.png](https://example.com/logos/AtlanticoTV.png)" group-title="Sucessos África", Atlantico TV
+[http://AtlanticoTV.ao](http://AtlanticoTV.ao)
+#EXTINF:-1 tvg-id="BandaTV" tvg-name="BandaTV" tvg-logo="[https://example.com/logos/BandaTV.png](https://example.com/logos/BandaTV.png)" group-title="Sucessos África", Banda TV
+[http://BandaTV.ao](http://BandaTV.ao)
+#EXTINF:-1 tvg-id="BeKuduro" tvg-name="BeKuduro" tvg-logo="[https://example.com/logos/BeKuduro.png](https://example.com/logos/BeKuduro.png)" group-title="Sucessos África", Seja Kuduro
+[http://BeKuduro.ao](http://BeKuduro.ao)
+#EXTINF:-1 tvg-id="BomSomChannel" tvg-name="BomSomChannel" tvg-logo="[https://example.com/logos/BomSomChannel.png](https://example.com/logos/BomSomChannel.png)" group-title="Sucessos África", Canal Bom Som
+[http://BomSomChannel.ao](http://BomSomChannel.ao)
+#EXTINF:-1 tvg-id="CanalMultivisao" tvg-name="CanalMultivisao" tvg-logo="[https://example.com/logos/CanalMultivisao.png](https://example.com/logos/CanalMultivisao.png)" group-title="Sucessos África", Canal Multivisao
+[http://CanalMultivisao.ao](http://CanalMultivisao.ao)
+#EXTINF:-1 tvg-id="CartoonTV" tvg-name="CartoonTV" tvg-logo="[https://example.com/logos/CartoonTV.png](https://example.com/logos/CartoonTV.png)" group-title="Sucessos África", Desenhos animados na TV
+[http://CartoonTV.ao](http://CartoonTV.ao)
+#EXTINF:-1 tvg-id="FeTV" tvg-name="FeTV" tvg-logo="[https://example.com/logos/FeTV.png](https://example.com/logos/FeTV.png)" group-title="Sucessos África", Fe TV
+[http://FeTV.ao](http://FeTV.ao)
+#EXTINF:-1 tvg-id="GloboOn" tvg-name="GloboOn" tvg-logo="[https://example.com/logos/GloboOn.png](https://example.com/logos/GloboOn.png)" group-title="Sucessos África", Globo Ligado
+[http://GloboOn.ao](http://GloboOn.ao)
+#EXTINF:-1 tvg-id="GospelTV" tvg-name="GospelTV" tvg-logo="[https://example.com/logos/GospelTV.png](https://example.com/logos/GospelTV.png)" group-title="Sucessos África", TV Gospel
+[http://GospelTV.ao](http://GospelTV.ao)
+#EXTINF:-1 tvg-id="KaluandaTV" tvg-name="KaluandaTV" tvg-logo="[https://example.com/logos/KaluandaTV.png](https://example.com/logos/KaluandaTV.png)" group-title="Sucessos África", Kaluanda TV
+[http://KaluandaTV.ao](http://KaluandaTV.ao)
+#EXTINF:-1 tvg-id="KanucaTV" tvg-name="KanucaTV" tvg-logo="[https://example.com/logos/KanucaTV.png](https://example.com/logos/KanucaTV.png)" group-title="Sucessos África", Kanuca TV
+[http://KanucaTV.ao](http://KanucaTV.ao)
+#EXTINF:-1 tvg-id="KKTV" tvg-name="KKTV" tvg-logo="[https://example.com/logos/KKTV.png](https://example.com/logos/KKTV.png)" group-title="Sucessos África", KK TV
+[http://KKTV.ao](http://KKTV.ao)
+#EXTINF:-1 tvg-id="KwendaMagic" tvg-name="KwendaMagic" tvg-logo="[https://example.com/logos/KwendaMagic.png](https://example.com/logos/KwendaMagic.png)" group-title="Sucessos África", Magia Kwenda
+[http://KwendaMagic.ao](http://KwendaMagic.ao)
+#EXTINF:-1 tvg-id="LaLiganaZap" tvg-name="LaLiganaZap" tvg-logo="[https://example.com/logos/LaLiganaZap.png](https://example.com/logos/LaLiganaZap.png)" group-title="Sucessos África", LaLiga na Zap
+[http://LaLiganaZap.ao](http://LaLiganaZap.ao)
+#EXTINF:-1 tvg-id="LutaPelaFama" tvg-name="LutaPelaFama" tvg-logo="[https://example.com/logos/LutaPelaFama.png](https://example.com/logos/LutaPelaFama.png)" group-title="Sucessos África", Luta Pela Fama
+[http://LutaPelaFama.ao](http://LutaPelaFama.ao)
